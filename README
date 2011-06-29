@@ -1,0 +1,20 @@
+esolympics - Endangered Species Olympics
+
+Jake Kaufman - sound and cutscenes
+Kevin Kvalstad - art
+Sean Levatino - design, art, production
+Jeff Lee - programming, a smidge of shreddy guitar
+
+Surely one of the dumbest, least politically-correct, and least compelling-from-a-gameplay-perspective entries into the 2011 Global Game Jam. But also hilarious, more fun than you'd think, and equipped with extremely badass systems for cutscenes and run-time debug menus.
+
+You can play the game on its "official" GGJ page:
+
+	http://globalgamejam.org/2011/engangered-species-olympics
+
+Some of the assets were "borrowed" from the Intertubes without permission, so they are packaged separately in case you really, really need to build this game yourself. Go here to download them:
+
+	http://jeff.blamblamblam.net/ggj2011/assets.zip
+
+To build this game, you'll need some environment that can produce an AS3 .swf.
+
+This game uses a slightly modified version of Flashpunk.
